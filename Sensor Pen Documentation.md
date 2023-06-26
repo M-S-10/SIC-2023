@@ -1,5 +1,3 @@
----
-
 ## Documentation: Accelerometer-based Deviation Detection System
 
 **Overview:**
